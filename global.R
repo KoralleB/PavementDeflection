@@ -1,0 +1,15 @@
+
+library(shiny)
+library(shinydashboard)
+library(shinyWidgets)
+library(shinyjs)
+library(ggplot2)
+library(ggthemes)
+library(plotly)
+library(datasets)
+
+Raw1 <- readRDS("Raw1.RData")
+Raw2 <- readRDS("Raw2.RData")
+Raw4 <- readRDS("Raw4.RData")
+Raw5 <- readRDS("Raw5.RData")
+Raw6 <- readRDS("Raw6.RData")
