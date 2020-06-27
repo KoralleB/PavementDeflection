@@ -1,0 +1,23 @@
+R version 3.5.3 (2019-03-11)
+Platform: x86_64-w64-mingw32/x64 (64-bit)
+Running under: Windows 10 x64 (build 18362)
+
+Matrix products: default
+
+locale:
+LC_COLLATE=English_United States.1252  LC_CTYPE=English_United States.1252   
+LC_MONETARY=English_United States.1252 LC_NUMERIC=C                          
+LC_TIME=English_United States.1252    
+
+attached base packages:
+stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+plotly_4.9.0
+ggthemes_4.1.1
+ggplot2_3.1.1
+shinyjs_1.0         
+shinyWidgets_0.4.8
+shinydashboard_0.7.1 shiny_1.3.1
+RevoUtils_11.0.3    
+RevoUtilsMath_11.0.0
